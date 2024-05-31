@@ -3,8 +3,8 @@
 
 
 # spis treści
-*katalogu .vscode : połaczenie miedzy plikami interfacu graficznego a projektem 
-*katalogu openfx : Pliki JAVAFX pobrane z internetu  które służa do robienia interface graficznych
+*katalogu .vscode : połaczenie miedzy plikami interfacu graficznego a projektem ;
+*katalogu openfx : Pliki JAVAFX pobrane z internetu  które służa do robienia interface graficznych;
 *katalogu project :
 - UI.java : Interface graficzny
 - Stats.java : Statystyki
