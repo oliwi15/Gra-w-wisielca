@@ -40,14 +40,14 @@ Lista funkcji projektu :
 
 
 
-#  instrukcje obsługi (czyli jak uruchomić aplikację, czy potrzebne jest pobranie dodatkowych paczek, jak tak to jakich, w jaki sposób je zainstalować itp.)
+#  instrukcje obsługi 
 
 
 Aby uruchomic aplikacje trzeba:
 1. pobrac wszystkie pliki z repozytorium Gra-w-wisielca .
-2. otworzyc pobrane repozytorium w programie do czytania kodu np.Visual Studio Code 
+2. otworzyc pobrane repozytorium w programie do czytania kodu java  np.Visual Studio Code 
 3. Prubójemy uruchomic plik z interfejsce o nazwie UI.java 
-*jesli plik sie nie otwiera musimy pobrac pliki JavaFX z internetu a nastepnie połaczyc z projektem 
+*jesli plik sie nie otwiera musimy pobrac pliki JavaFX z internetu a nastepnie połaczyc z projektem i komputerem 
 *jesli plik działa wyswietla sie strona główna a na niej 2 przyciski: rozpocznij gre oraz statystyki 
 4. Po wcisnieciu rozpocznij gre musimy wybrac poziom trudnosci jaka chcemy grac 
 5. W nastepujacej czesci zaczyna sie gra , mamy zasłoniete losowe slowo które musimy odgadnąc wciskajac litery na klawiaturze komputera.
