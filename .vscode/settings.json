@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "openjfx\\javafx-sdk\\lib\\javafx.media.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.base.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.web.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.controls.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.graphics.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx-swt.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.fxml.jar",
+        "openjfx\\javafx-sdk\\lib\\javafx.swing.jar"
+    ],
+    "java.project.sourcePaths": [
+        "project",
+    
+    ]
+}
