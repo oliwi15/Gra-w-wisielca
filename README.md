@@ -1,8 +1,8 @@
-# tytuł i nazwa wybranego projektu:  
+# Tytuł i nazwa wybranego projektu:  
  Gra w wisielca
 
 
-# spis treści
+# Spis treści
 *katalogu .vscode : połaczenie miedzy plikami interfacu graficznego a projektem ;
 *katalogu openfx : Pliki JAVAFX pobrane z internetu  które służa do robienia interface graficznych;
 *katalogu project :
@@ -14,7 +14,7 @@
 
 
 
-# listę i krótki opis zaimplementowanych w projekcie funkcjonalności
+# Listę i krótki opis zaimplementowanych w projekcie funkcjonalności
 
 Lista funkcji projektu :
 
@@ -40,7 +40,7 @@ Lista funkcji projektu :
 
 
 
-#  instrukcje obsługi 
+#  Instrukcje obsługi 
 
 
 Aby uruchomic aplikacje trzeba:
